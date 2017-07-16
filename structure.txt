@@ -1,0 +1,18 @@
+Website structure:
+Home page
+Login screen (labeled by compare)
+    Ppl just use their tjhsst emails to sign in -- to get to a screen where they log schedule info
+    Logins stored in backend, teacher info stored in backend (grid), class info stored in backend
+    Grid for class info: each row is period, class name, and teacher
+    ALL BACKED is bigparse grid
+    Facilities:
+        Search for teachers who have profiles
+        Either enter schedule or be able to go through classes and see who is in them
+        Entering schedule: (periods already there, just enter class (autocomplete based on grid) 
+        and teacher(autocomplete))
+About page (who made website, mini, no profile pic pfps for each of us)
+
+Grid IDs:
+
+teacher grid ID: 596aa3cd19845775cf54d5df
+
