@@ -15,6 +15,29 @@ img {
     width: 50%;
     height: auto;
 }
+div.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+div.tab button:hover {
+    background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+div.tab button.active {
+    background-color: #ccc;
+}
+th {
+    text-align: left;
+}
 </style>
 <head>
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
@@ -23,13 +46,82 @@ img {
 
 <!-- Navbar -->
 <div class="w3-top">
-  <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
+  <div class="tab">
     <a class="w3-bar-item w3-button w3-right w3-hide-large w3-hover-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
-    <a href="#" class="w3-bar-item w3-button w3-theme-l1">Home</a>
-    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-hover-white">About</a>
+    <button id= "defaultOpen" class="tablinks" onclick="tabChoose(event, 'Home')">Home</button>
+    <button class="tablinks" onclick="tabChoose(event, 'Compare')">Compare</button>
   </div>
 </div>
-
+<div id="Compare" class="tabcontent">
+  <center>
+  <div class="w3-row w3-padding-64">
+    <div class="w3-twothird w3-container">
+      <h1 class="w3-text-teal">Compare</h1>
+      <table style="width:100%">
+        <tr>
+        <th> Period </th>
+        <th> Class </th>
+        <th> Teacher </th>
+        </tr>
+        <tr>
+        <td> 1</td>
+        <td> <input type="text" name="class1"> </td>
+        <td> <input type="text" name="period1" ></td>
+        </tr>
+        <tr>
+        <td> 2</td>
+        <td> <input type="text" name="class2"> </td>
+        <td> <input type="text" name="period2" ></td>
+        </tr>
+        </tr>
+        <tr>
+        <td> 3</td>
+        <td> <input type="text" name="class3"> </td>
+        <td> <input type="text" name="period3" ></td>
+        </tr>
+        </tr>
+        <tr>
+        <td> 4</td>
+        <td> <input type="text" name="class4"> </td>
+        <td> <input type="text" name="period4" ></td>
+        </tr>
+        <tr>
+        <td> 5</td>
+        <td> <input type="text" name="class5"> </td>
+        <td> <input type="text" name="period5" ></td>
+        </tr>
+        <tr>
+        <td> 6</td>
+        <td> <input type="text" name="class6"> </td>
+        <td> <input type="text" name="period6" ></td>
+        </tr>
+        <tr>
+        <td> 7</td>
+        <td> <input type="text" name="class7"> </td>
+        <td> <input type="text" name="period7" ></td>
+        </tr>
+        </table>
+        <input type="submit">
+    </div>
+  </div>
+    </center>
+</div>
+<div id="Home" class="tabcontent">
+  <center>
+  <div class="w3-row w3-padding-64">
+    <div class="w3-twothird w3-container">
+      <h1 class="w3-text-teal">Welcome!</h1>
+      <p>
+          Welcome to a schedule comparator made for you to see who you are going to have classes with this year!
+          <br><br> This comparator has an emphasis on nice user interface and also utilizes bigparser grids to store a lot of data
+          from detailed information on teachers, classes, and periods to much more!
+          <br>Hope you Enjoy!
+      </p>
+      <img src ="img/BigParser.png">
+    </div>
+  </div>
+    </center>
+</div>
 <!-- Sidebar -->
 <nav class="w3-sidebar w3-bar-block w3-collapse w3-large w3-theme-l5 w3-animate-left" style="z-index:3;width:250px;margin-top:43px;" id="mySidebar">
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-right w3-xlarge w3-padding-large w3-hover-black w3-hide-large" title="Close Menu">
@@ -45,30 +137,7 @@ img {
 <!-- Overlay effect when opening sidebar on small screens -->
 <div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
 
-<!-- Main content: shift it to the right by 250 pixels when the sidebar is visible -->
-<div class="w3-main" style="margin-left:250px">
-    <center>
-  <div class="w3-row w3-padding-64">
-    <div class="w3-twothird w3-container">
-      <h1 class="w3-text-teal">Welcome!</h1>
-      <p>
-          Welcome to a schedule comparator made for you to see who you are going to have classes with this year!
-          <br><br> This comparator has an emphasis on nice user interface and also utilizes bigparser grids to store a lot of data
-          from detailed information on teachers, classes, and periods to much more!
-          <br>Hope you Enjoy!
-      </p>
-      <img src ="img/BigParser.png">
-    </div>
-  </div>
-    </center>
 
-    <div class="w3-container w3-theme-l1">
-      <p>Powered by BigParser</p>
-    </div>
-  </footer>
-
-<!-- END MAIN -->
-</div>
 
 <script>
 // Get the Sidebar
@@ -93,7 +162,28 @@ function w3_close() {
     mySidebar.style.display = "none";
     overlayBg.style.display = "none";
 }
-</script>
 
+function tabChoose(evt, tabName) {
+    // Declare all variables
+    var i, tabcontent, tablinks;
+
+    // Get all elements with class="tabcontent" and hide them
+    tabcontent = document.getElementsByClassName("tabcontent");
+    for (i = 0; i < tabcontent.length; i++) {
+        tabcontent[i].style.display = "none";
+    }
+
+    // Get all elements with class="tablinks" and remove the class "active"
+    tablinks = document.getElementsByClassName("tablinks");
+    for (i = 0; i < tablinks.length; i++) {
+        tablinks[i].className = tablinks[i].className.replace(" active", "");
+    }
+
+    // Show the current tab, and add an "active" class to the button that opened the tab
+    document.getElementById(tabName).style.display = "block";
+    evt.currentTarget.className += " active";
+}
+document.getElementById("defaultOpen").click();
+</script>
 </body>
 </html>
