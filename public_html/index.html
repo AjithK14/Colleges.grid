@@ -25,7 +25,7 @@ div.tab button {
     transition: 0.3s;
     font-size: 17px;
 }
-
+text-align: center;
 /* Change background color of buttons on hover */
 div.tab button:hover {
     background-color: #ddd;
@@ -35,6 +35,7 @@ div.tab button:hover {
 div.tab button.active {
     background-color: #ccc;
 }
+div.w3-twothird w3-container {text-align: center}
 th {
     text-align: left;
 }
@@ -47,7 +48,7 @@ th {
 <!-- Navbar -->
 <div class="w3-top">
   <div class="tab">
-    <a class="w3-bar-item w3-button w3-right w3-hide-large w3-hover-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
+    <!--<a class="w3-bar-item w3-button w3-right w3-hide-large w3-hover-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>-->
     <button id= "defaultOpen" class="tablinks" onclick="tabChoose(event, 'Home')">Home</button>
     <button class="tablinks" onclick="tabChoose(event, 'Compare')">Compare</button>
   </div>
@@ -55,6 +56,7 @@ th {
 <div id="Compare" class="tabcontent">
   <center>
   <div class="w3-row w3-padding-64">
+    <center>
     <div class="w3-twothird w3-container">
       <h1 class="w3-text-teal">Compare</h1>
       <table style="width:100%">
@@ -103,6 +105,7 @@ th {
         </table>
         <input type="submit">
     </div>
+    </center>
   </div>
     </center>
 </div>
@@ -123,7 +126,7 @@ th {
     </center>
 </div>
 <!-- Sidebar -->
-<nav class="w3-sidebar w3-bar-block w3-collapse w3-large w3-theme-l5 w3-animate-left" style="z-index:3;width:250px;margin-top:43px;" id="mySidebar">
+<!--<nav class="w3-sidebar w3-bar-block w3-collapse w3-large w3-theme-l5 w3-animate-left" style="z-index:3;width:250px;margin-top:43px;" id="mySidebar">
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-right w3-xlarge w3-padding-large w3-hover-black w3-hide-large" title="Close Menu">
     <i class="fa fa-remove"></i>
   </a>
@@ -132,10 +135,10 @@ th {
   <a class="w3-bar-item w3-button w3-hover-black" href="#">Link</a>
   <a class="w3-bar-item w3-button w3-hover-black" href="#">Link</a>
   <a class="w3-bar-item w3-button w3-hover-black" href="#">Link</a>
-</nav>
+</nav>-->
 
 <!-- Overlay effect when opening sidebar on small screens -->
-<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+<!--<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div> -->
 
 
 
