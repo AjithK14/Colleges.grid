@@ -1,0 +1,870 @@
+Stanford University	5%
+Stanford, California	
+42,497 Applicants	
+Harvard University	6%
+Cambridge, Massachusetts	
+37,307 Applicants	
+The Juilliard School	6%
+New York, New York	
+2,551 Applicants	
+Yale University	7%
+New Haven, Connecticut	
+30,236 Applicants	
+Princeton University	7%
+Princeton, New Jersey	
+27,290 Applicants	
+Columbia University in the City of New York	7%
+New York, New York	
+36,911 Applicants	
+University of Chicago	8%
+Chicago, Illinois	
+30,069 Applicants	
+Massachusetts Institute of Technology	8%
+Cambridge, Massachusetts	
+18,306 Applicants	
+California Institute of Technology	9%
+Pasadena, California	
+6,506 Applicants	
+Brown University	9%
+Providence, Rhode Island	
+30,396 Applicants	
+Pomona College	10%
+Claremont, California	
+8,099 Applicants	
+University of Pennsylvania	10%
+Philadelphia, Pennsylvania	
+37,268 Applicants	
+Claremont McKenna College	11%
+Claremont, California	
+7,156 Applicants	
+Dartmouth College	11%
+Hanover, New Hampshire	
+20,507 Applicants	
+Duke University	11%
+Durham, North Carolina	
+31,220 Applicants	
+Franklin W. Olin College of Engineering	11%
+Needham, Massachusetts	
+1,075 Applicants	
+College of the Ozarks	12%
+Point Lookout, Missouri	
+3,122 Applicants	
+Swarthmore College	12%
+Swarthmore, Pennsylvania	
+7,818 Applicants	
+Vanderbilt University	12%
+Nashville, Tennessee	
+31,464 Applicants	
+Harvey Mudd College	13%
+Claremont, California	
+4,119 Applicants	
+Pitzer College	13%
+Claremont, California	
+4,149 Applicants	
+Northwestern University	13%
+Evanston, Illinois	
+32,122 Applicants	
+Johns Hopkins University	14%
+Baltimore, Maryland	
+25,474 Applicants	
+Amherst College	14%
+Amherst, Massachusetts	
+8,568 Applicants	
+Bowdoin College	15%
+Brunswick, Maine	
+6,790 Applicants	
+Cornell University	15%
+Ithaca, New York	
+41,900 Applicants	
+College of Mount St. Joseph	15%
+Cincinnati, Ohio	
+2,187 Applicants	
+Tufts University	16%
+Medford, Massachusetts	
+19,063 Applicants	
+Rice University	16%
+Houston, Texas	
+17,951 Applicants	
+University of California Berkeley	17%
+Berkeley, California	
+78,893 Applicants	
+University of California Los Angeles	17%
+Los Angeles, California	
+92,690 Applicants	
+Colorado College	17%
+Colorado Springs, Colorado	
+8,060 Applicants	
+Georgetown University	17%
+Washington, District Of Columbia	
+19,478 Applicants	
+Washington University in St Louis	17%
+Saint Louis, Missouri	
+29,259 Applicants	
+Middlebury College	17%
+Middlebury, Vermont	
+8,891 Applicants	
+University of Southern California	18%
+Los Angeles, California	
+51,924 Applicants	
+Williams College	18%
+Williamstown, Massachusetts	
+6,883 Applicants	
+University of Notre Dame	20%
+Notre Dame, Indiana	
+18,157 Applicants	
+Fort Valley State University	21%
+Fort Valley, Georgia	
+4,925 Applicants	
+Chicago State University	21%
+Chicago, Illinois	
+5,883 Applicants	
+Southern University at New Orleans	21%
+New Orleans, Louisiana	
+1,795 Applicants	
+Carleton College	21%
+Northfield, Minnesota	
+6,722 Applicants	
+Wesleyan University	22%
+Middletown, Connecticut	
+9,822 Applicants	
+Bates College	22%
+Lewiston, Maine	
+5,651 Applicants	
+American Musical and Dramatic Academy	22%
+New York, New York	
+8,866 Applicants	
+Davidson College	22%
+Davidson, North Carolina	
+5,382 Applicants	
+Liberty University	22%
+Lynchburg, Virginia	
+48,936 Applicants	
+Colby College	23%
+Waterville, Maine	
+7,593 Applicants	
+Art Academy of Cincinnati	23%
+Cincinnati, Ohio	
+579 Applicants	
+Florida Memorial University	24%
+Miami Gardens, Florida	
+5,101 Applicants	
+Emory University	24%
+Atlanta, Georgia	
+20,492 Applicants	
+Robert Morris University Illinois	24%
+Chicago, Illinois	
+2,967 Applicants	
+New Mexico Institute of Mining and Technology	24%
+Socorro, New Mexico	
+1,628 Applicants	
+Piedmont International University	24%
+Winston Salem, North Carolina	
+219 Applicants	
+Carnegie Mellon University	24%
+Pittsburgh, Pennsylvania	
+20,547 Applicants	
+Washington and Lee University	24%
+Lexington, Virginia	
+5,377 Applicants	
+California Institute of the Arts	25%
+Valencia, California	
+2,158 Applicants	
+Grinnell College	25%
+Grinnell, Iowa	
+6,414 Applicants	
+Hamilton College	25%
+Clinton, New York	
+5,434 Applicants	
+Bucknell University	25%
+Lewisburg, Pennsylvania	
+10,967 Applicants	
+Haverford College	25%
+Haverford, Pennsylvania	
+3,467 Applicants	
+Babson College	26%
+Wellesley, Massachusetts	
+7,516 Applicants	
+University of Michigan Ann Arbor	26%
+Ann Arbor, Michigan	
+51,797 Applicants	
+Vassar College	26%
+Poughkeepsie, New York	
+7,567 Applicants	
+Kenyon College	26%
+Gambier, Ohio	
+6,644 Applicants	
+Colgate University	27%
+Hamilton, New York	
+8,724 Applicants	
+Northeastern University	28%
+Boston, Massachusetts	
+50,523 Applicants	
+Southwestern Assemblies of God University	28%
+Waxahachie, Texas	
+1,459 Applicants	
+University of Minnesota Rochester	28%
+Rochester, Minnesota	
+803 Applicants	
+Berklee College of Music	29%
+Boston, Massachusetts	
+8,071 Applicants	
+Boston College	29%
+Chestnut Hill, Massachusetts	
+29,486 Applicants	
+Oak Hills Christian College	29%
+Bemidji, Minnesota	
+134 Applicants	
+Wake Forest University	29%
+Winston Salem, North Carolina	
+13,281 Applicants	
+Oberlin College	29%
+Oberlin, Ohio	
+7,815 Applicants	
+Tulane University of Louisiana	30%
+New Orleans, Louisiana	
+26,257 Applicants	
+CUNY Lehman College	30%
+Bronx, New York	
+14,076 Applicants	
+Lafayette College	30%
+Easton, Pennsylvania	
+7,465 Applicants	
+Lehigh University	30%
+Bethlehem, Pennsylvania	
+12,843 Applicants	
+University of Virginia Main Campus	30%
+Charlottesville, Virginia	
+30,840 Applicants	
+California Polytechnic State University San Luis Obispo	31%
+San Luis Obispo, California	
+46,820 Applicants	
+Corcoran College of Art and Design	31%
+Washington, District Of Columbia	
+605 Applicants	
+Paine College	31%
+Augusta, Georgia	
+3,790 Applicants	
+University of North Carolina at Chapel Hill	31%
+Chapel Hill, North Carolina	
+31,143 Applicants	
+Corban University	31%
+Salem, Oregon	
+3,108 Applicants	
+University of Richmond	31%
+University of Richmond, Virginia	
+9,977 Applicants	
+Georgia Institute of Technology Main Campus	32%
+Atlanta, Georgia	
+27,277 Applicants	
+The New England Conservatory of Music	32%
+Boston, Massachusetts	
+1,170 Applicants	
+Bard College	32%
+Annandale-On-Hudson, New York	
+7,044 Applicants	
+CUNY Bernard M Baruch College	32%
+New York, New York	
+19,864 Applicants	
+New York University	32%
+New York, New York	
+57,727 Applicants	
+Catawba College	32%
+Salisbury, North Carolina	
+3,117 Applicants	
+Franklin and Marshall College	32%
+Lancaster, Pennsylvania	
+7,146 Applicants	
+University of California Santa Barbara	33%
+Santa Barbara, California	
+70,536 Applicants	
+Trinity College	33%
+Hartford, Connecticut	
+7,569 Applicants	
+Washington Adventist University	33%
+Takoma Park, Maryland	
+1,375 Applicants	
+Boston University	33%
+Boston, Massachusetts	
+54,781 Applicants	
+Houston Baptist University	33%
+Houston, Texas	
+14,519 Applicants	
+California State University Long Beach	34%
+Long Beach, California	
+58,109 Applicants	
+University of California San Diego	34%
+La Jolla, California	
+78,061 Applicants	
+Hope International University	34%
+Fullerton, California	
+1,051 Applicants	
+San Diego State University	34%
+San Diego, California	
+59,051 Applicants	
+Emmanuel College	34%
+Franklin Springs, Georgia	
+1,591 Applicants	
+Brandeis University	34%
+Waltham, Massachusetts	
+10,528 Applicants	
+Nebraska Methodist College of Nursing & Allied Health	34%
+Omaha, Nebraska	
+178 Applicants	
+University of Rochester	34%
+Rochester, New York	
+17,912 Applicants	
+Touro College	34%
+New York, New York	
+2,201 Applicants	
+University of North Carolina School of the Arts	34%
+Winston-Salem, North Carolina	
+887 Applicants	
+Columbia International University	34%
+Columbia, South Carolina	
+553 Applicants	
+College of William and Mary	34%
+Williamsburg, Virginia	
+14,952 Applicants	
+American University	35%
+Washington, District Of Columbia	
+16,735 Applicants	
+Emmaus Bible College	35%
+Dubuque, Iowa	
+432 Applicants	
+Alice Lloyd College	35%
+Pippa Passes, Kentucky	
+4,811 Applicants	
+Central Christian College of the Bible	35%
+Moberly, Missouri	
+381 Applicants	
+Reed College	35%
+Portland, Oregon	
+5,396 Applicants	
+Kentucky Christian University	36%
+Grayson, Kentucky	
+1,185 Applicants	
+St Olaf College	36%
+Northfield, Minnesota	
+7,571 Applicants	
+Saint Louis Christian College	36%
+Florissant, Missouri	
+72 Applicants	
+Skidmore College	36%
+Saratoga Springs, New York	
+8,508 Applicants	
+Case Western Reserve University	36%
+Cleveland, Ohio	
+22,807 Applicants	
+Brigham Young University Hawaii	36%
+Laie, Hawaii	
+2,869 Applicants	
+Laguna College of Art and Design	37%
+Laguna Beach, California	
+322 Applicants	
+Maharishi University of Management	37%
+Fairfield, Iowa	
+84 Applicants	
+Coppin State University	37%
+Baltimore, Maryland	
+4,453 Applicants	
+College of the Holy Cross	37%
+Worcester, Massachusetts	
+6,595 Applicants	
+CUNY Brooklyn College	37%
+Brooklyn, New York	
+20,324 Applicants	
+CUNY John Jay College of Criminal Justice	37%
+New York, New York	
+13,398 Applicants	
+Rhode Island School of Design	37%
+Providence, Rhode Island	
+2,425 Applicants	
+University of California Davis	38%
+Davis, California	
+64,602 Applicants	
+Menlo College	38%
+Atherton, California	
+2,445 Applicants	
+Pepperdine University	38%
+Malibu, California	
+9,923 Applicants	
+Colorado School of Mines	38%
+Golden, Colorado	
+11,752 Applicants	
+University of Miami	38%
+Coral Gables, Florida	
+33,419 Applicants	
+Kentucky State University	38%
+Frankfort, Kentucky	
+4,768 Applicants	
+Grambling State University	38%
+Grambling, Louisiana	
+3,584 Applicants	
+Union College	38%
+Schenectady, New York	
+5,996 Applicants	
+Southern Virginia University	38%
+Buena Vista, Virginia	
+1,755 Applicants	
+Alaska Pacific University	39%
+Anchorage, Alaska	
+699 Applicants	
+California State Polytechnic University Pomona	39%
+Pomona, California	
+33,855 Applicants	
+University of California Irvine	39%
+Irvine, California	
+71,775 Applicants	
+Florida Christian College	39%
+Kissimmee, Florida	
+273 Applicants	
+Clayton State University	39%
+Morrow, Georgia	
+2,774 Applicants	
+Andrews University	39%
+Berrien Springs, Michigan	
+2,201 Applicants	
+Macalester College	39%
+Saint Paul, Minnesota	
+6,030 Applicants	
+Tougaloo College	39%
+Tougaloo, Mississippi	
+2,321 Applicants	
+CUNY Hunter College	39%
+New York, New York	
+28,041 Applicants	
+Central State University	39%
+Wilberforce, Ohio	
+6,502 Applicants	
+The University of Texas at Austin	39%
+Austin, Texas	
+42,392 Applicants	
+Concordia College Selma	40%
+Selma, Alabama	
+3,768 Applicants	
+Connecticut College	40%
+New London, Connecticut	
+5,182 Applicants	
+Park University	40%
+Parkville, Missouri	
+998 Applicants	
+CUNY Queens College	40%
+Flushing, New York	
+18,416 Applicants	
+CUNY York College	40%
+Jamaica, New York	
+13,889 Applicants	
+Western Carolina University	40%
+Cullowhee, North Carolina	
+17,699 Applicants	
+Gettysburg College	40%
+Gettysburg, Pennsylvania	
+6,386 Applicants	
+Pennsylvania College of Art and Design	40%
+Lancaster, Pennsylvania	
+404 Applicants	
+University of Memphis	40%
+Memphis, Tennessee	
+16,672 Applicants	
+The King?s College	40%
+New York, New York	
+2,529 Applicants	
+Spring Hill College	41%
+Mobile, Alabama	
+7,393 Applicants	
+Ottawa University Ottawa	41%
+Ottawa, Kansas	
+1,002 Applicants	
+Sterling College	41%
+Sterling, Kansas	
+1,118 Applicants	
+Rust College	41%
+Holly Springs, Mississippi	
+5,307 Applicants	
+Fashion Institute of Technology	41%
+New York, New York	
+4,753 Applicants	
+Stony Brook University	41%
+Stony Brook, New York	
+34,146 Applicants	
+SUNY at Purchase College	41%
+Purchase, New York	
+7,928 Applicants	
+Brevard College	41%
+Brevard, North Carolina	
+3,215 Applicants	
+Claflin University	41%
+Orangeburg, South Carolina	
+5,418 Applicants	
+Sewanee The University of the South	41%
+Sewanee, Tennessee	
+4,509 Applicants	
+California State University Fullerton	42%
+Fullerton, California	
+41,841 Applicants	
+The University of West Florida	42%
+Pensacola, Florida	
+7,104 Applicants	
+AIB College of Business	42%
+Des Moines, Iowa	
+405 Applicants	
+Bentley University	42%
+Waltham, Massachusetts	
+8,346 Applicants	
+New York School of Interior Design	42%
+New York, New York	
+155 Applicants	
+Rensselaer Polytechnic Institute	42%
+Troy, New York	
+17,752 Applicants	
+SUNY at Binghamton	42%
+Vestal, New York	
+30,616 Applicants	
+State University of New York at New Paltz	42%
+New Paltz, New York	
+14,655 Applicants	
+Barton College	42%
+Wilson, North Carolina	
+2,920 Applicants	
+Mid Atlantic Christian University	42%
+Elizabeth City, North Carolina	
+224 Applicants	
+Trinity Bible College	42%
+Ellendale, North Dakota	
+158 Applicants	
+Bacone College	42%
+Muskogee, Oklahoma	
+1,408 Applicants	
+Bryn Athyn College of the New Church	42%
+Bryn Athyn, Pennsylvania	
+439 Applicants	
+Dallas Baptist University	42%
+Dallas, Texas	
+2,949 Applicants	
+Holy Names University	43%
+Oakland, California	
+872 Applicants	
+Thomas University	43%
+Thomasville, Georgia	
+361 Applicants	
+CUNY City College	43%
+New York, New York	
+20,331 Applicants	
+Davis College	43%
+Johnson City, New York	
+118 Applicants	
+Washington & Jefferson College	43%
+Washington, Pennsylvania	
+6,835 Applicants	
+York College Pennsylvania	43%
+York, Pennsylvania	
+13,235 Applicants	
+Texas Christian University	43%
+Fort Worth, Texas	
+18,423 Applicants	
+Whitman College	43%
+Walla Walla, Washington	
+3,790 Applicants	
+Ave Maria University	43%
+Ave Maria, Florida	
+2,261 Applicants	
+Delaware State University	44%
+Dover, Delaware	
+8,141 Applicants	
+Goldey Beacom College	44%
+Wilmington, Delaware	
+774 Applicants	
+York College	44%
+York, Nebraska	
+615 Applicants	
+Stevens Institute of Technology	44%
+Hoboken, New Jersey	
+6,540 Applicants	
+Farmingdale State College	44%
+Farmingdale, New York	
+5,256 Applicants	
+University of Tulsa	44%
+Tulsa, Oklahoma	
+6,762 Applicants	
+King College	44%
+Bristol, Tennessee	
+843 Applicants	
+Baylor University	44%
+Waco, Texas	
+32,136 Applicants	
+Southwestern University	44%
+Georgetown, Texas	
+3,736 Applicants	
+Messenger College	44%
+Joplin, Missouri	
+103 Applicants	
+San Diego State University Imperial Valley Campus	44%
+Calexico, California	
+126 Applicants	
+La Sierra University	45%
+Riverside, California	
+4,328 Applicants	
+Occidental College	45%
+Los Angeles, California	
+5,911 Applicants	
+Pacific Union College	45%
+Angwin, California	
+2,041 Applicants	
+Florida Southern College	45%
+Lakeland, Florida	
+6,190 Applicants	
+University of South Florida Main Campus	45%
+Tampa, Florida	
+30,393 Applicants	
+Toccoa Falls College	45%
+Toccoa Falls, Georgia	
+759 Applicants	
+Lexington College	45%
+Chicago, Illinois	
+42 Applicants	
+University of Maryland College Park	45%
+College Park, Maryland	
+28,434 Applicants	
+University of Minnesota Twin Cities	45%
+Minneapolis, Minnesota	
+46,165 Applicants	
+Marist College	45%
+Poughkeepsie, New York	
+9,213 Applicants	
+Oregon College of Art and Craft	45%
+Portland, Oregon	
+147 Applicants	
+Wilson College	45%
+Chambersburg, Pennsylvania	
+1,112 Applicants	
+LeTourneau University	45%
+Longview, Texas	
+2,203 Applicants	
+Alabama State University	46%
+Montgomery, Alabama	
+8,356 Applicants	
+University of Arkansas at Pine Bluff	46%
+Pine Bluff, Arkansas	
+4,452 Applicants	
+California State University Northridge	46%
+Northridge, California	
+34,444 Applicants	
+George Washington University	46%
+Washington, District Of Columbia	
+19,837 Applicants	
+Southeastern University	46%
+Lakeland, Florida	
+3,823 Applicants	
+Midway College	46%
+Midway, Kentucky	
+397 Applicants	
+The Boston Conservatory	46%
+Boston, Massachusetts	
+1,215 Applicants	
+Finlandia University	46%
+Hancock, Michigan	
+1,456 Applicants	
+Missouri Valley College	46%
+Marshall, Missouri	
+2,879 Applicants	
+Manhattan School of Music	46%
+New York, New York	
+877 Applicants	
+Maria College of Albany	46%
+Albany, New York	
+306 Applicants	
+St Lawrence University	46%
+Canton, New York	
+5,876 Applicants	
+Johnson C Smith University	46%
+Charlotte, North Carolina	
+4,346 Applicants	
+East Central University	46%
+Ada, Oklahoma	
+2,398 Applicants	
+Limestone College	46%
+Gaffney, South Carolina	
+3,115 Applicants	
+Bryan College	46%
+Dayton, Tennessee	
+716 Applicants	
+Christian Brothers University	46%
+Memphis, Tennessee	
+2,321 Applicants	
+Texas Wesleyan University	46%
+Fort Worth, Texas	
+3,062 Applicants	
+Soka University of America	46%
+Aliso Viejo, California	
+451 Applicants	
+Oakwood University	47%
+Huntsville, Alabama	
+1,992 Applicants	
+Central Baptist College	47%
+Conway, Arkansas	
+358 Applicants	
+University of La Verne	47%
+La Verne, California	
+8,179 Applicants	
+San Francisco Conservatory of Music	47%
+San Francisco, California	
+362 Applicants	
+Macon State College	47%
+Macon, Georgia	
+2,571 Applicants	
+Maryland Institute College of Art	47%
+Baltimore, Maryland	
+3,818 Applicants	
+Pfeiffer University	47%
+Misenheimer, North Carolina	
+1,627 Applicants	
+Cleveland Institute of Music	47%
+Cleveland, Ohio	
+442 Applicants	
+Dickinson College	47%
+Carlisle, Pennsylvania	
+6,031 Applicants	
+O'More College of Design	47%
+Franklin, Tennessee	
+142 Applicants	
+Rhodes College	47%
+Memphis, Tennessee	
+4,666 Applicants	
+Texas A & M University Commerce	47%
+Commerce, Texas	
+7,195 Applicants	
+Huston Tillotson University	47%
+Austin, Texas	
+2,210 Applicants	
+Ohio Valley University	47%
+Vienna, West Virginia	
+882 Applicants	
+Silver Lake College of the Holy Family	47%
+Manitowoc, Wisconsin	
+413 Applicants	
+University of South Florida St. Petersburg Campus	47%
+St. Petersburg, Florida	
+5,122 Applicants	
+Chapman University	48%
+Orange, California	
+13,670 Applicants	
+University of Florida	48%
+Gainesville, Florida	
+29,220 Applicants	
+Purdue University North Central Campus	48%
+Westville, Indiana	
+3,432 Applicants	
+Graceland University Lamoni	48%
+Lamoni, Iowa	
+2,159 Applicants	
+Brescia University	48%
+Owensboro, Kentucky	
+4,153 Applicants	
+Dillard University	48%
+New Orleans, Louisiana	
+4,615 Applicants	
+Fordham University	48%
+Bronx, New York	
+42,811 Applicants	
+Syracuse University	48%
+Syracuse, New York	
+33,254 Applicants	
+Denison University	48%
+Granville, Ohio	
+6,110 Applicants	
+Northwestern Oklahoma State University	48%
+Alva, Oklahoma	
+862 Applicants	
+Southwestern Christian University	48%
+Bethany, Oklahoma	
+440 Applicants	
+Muhlenberg College	48%
+Allentown, Pennsylvania	
+5,015 Applicants	
+Villanova University	48%
+Villanova, Pennsylvania	
+16,206 Applicants	
+Texas A & M International University	48%
+Laredo, Texas	
+6,407 Applicants	
+Trinity University	48%
+San Antonio, Texas	
+5,563 Applicants	
+Brigham Young University Provo	48%
+Provo, Utah	
+13,376 Applicants	
+Appalachian Bible College	48%
+Mount Hope, West Virginia	
+101 Applicants	
+Shorter University College of Adult & Professional Programs	48%
+Atlanta, Georgia	
+27 Applicants	
+University of Alaska Southeast	49%
+Juneau, Alaska	
+458 Applicants	
+Santa Clara University	49%
+Santa Clara, California	
+14,899 Applicants	
+Howard University	49%
+Washington, District Of Columbia	
+15,163 Applicants	
+University of Central Florida	49%
+Orlando, Florida	
+35,572 Applicants	
+Saint Thomas University	49%
+Miami Gardens, Florida	
+1,570 Applicants	
+Point University	49%
+East Point, Georgia	
+862 Applicants	
+Augustana College	49%
+Rock Island, Illinois	
+6,712 Applicants	
+North Park University	49%
+Chicago, Illinois	
+3,901 Applicants	
+University of Saint Mary	49%
+Leavenworth, Kansas	
+940 Applicants	
+University of Maryland Eastern Shore	49%
+Princess Anne, Maryland	
+7,249 Applicants	
+Emerson College	49%
+Boston, Massachusetts	
+8,618 Applicants	
+Worcester Polytechnic Institute	49%
+Worcester, Massachusetts	
+10,172 Applicants	
+William Jewell College	49%
+Liberty, Missouri	
+1,456 Applicants	
+The College of New Jersey	49%
+Ewing, New Jersey	
+11,290 Applicants	
+SUNY College at Oneonta	49%
+Oneonta, New York	
+11,427 Applicants	
+Ohio State University	49%
+Columbus, Ohio	
+40,240 Applicants	
+Albright College	49%
+Reading, Pennsylvania	
+7,645 Applicants	
+Cumberland University	49%
+Lebanon, Tennessee	
+695 Applicants	
+Southern Methodist University	49%
+Dallas, Texas	
+12,992 Applicants	
+Southwestern Adventist University	49%
+Keene, Texas	
+1,476 Applicants	
+Bridgewater College	49%
+Bridgewater, Virginia	
+7,187 Applicants	
+Virginia Union University	49%
+Richmond, Virginia	
+7,337 Applicants	
+California State University Monterey Bay	49%
+Seaside, California	
+15,561 Applicants	
