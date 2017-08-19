@@ -42,7 +42,7 @@ for line in rates.readlines():
     else:
         variable = 0
 df = pd.DataFrame({'Colleges': arr, 'Home pages': arr2, 'Locations': locations, 'Acceptance Rate': college_percents})
-writer = pd.ExcelWriter('collegeGrid.xlsx', engine='xlsxwriter')
+writer = pd.ExcelWriter('collegeGrid99.xlsx', engine='xlsxwriter')
 df.to_excel(writer, sheet_name='Sheet1', index=False)
 workbook = writer.book
 worksheets = writer.sheets['Sheet1']
